@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "network" : "admob",
+            "network" : "max",
             "activate_ads" : "true",
             "int_interval" : 2,
 
@@ -23,9 +23,9 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "dd0f88dd14411c62",
-            "max_native" : "eef6439a662ed026",
-            "max_int" : "eddf2f9b6cb263ee"
+            "max_ban" : "b953da5e24f5d7d3",
+            "max_native" : "104c29626799a6b7",
+            "max_int" : "123021b08288cece"
         }
     ],
 
